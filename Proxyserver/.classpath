@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/exificient-0.9.2-bundle/bundle/lib/exificient.jar"/>
+	<classpathentry kind="lib" path="D:/ksoap2android/ksoap2-android-assembly-3.0.0-jar-with-dependencies.jar"/>
+	<classpathentry kind="lib" path="D:/rabbitmq-java-client-bin-3.2.3/rabbitmq-client.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
